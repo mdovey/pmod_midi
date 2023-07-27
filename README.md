@@ -1,7 +1,7 @@
 # pmod_midi
 #### PMOD Adapter for the CME Widi Core BLE MIDI module
 
-Kicad files for a PCB adapter board to allow the [CME Widi Core module](https://www.cme-pro.com/widi-core/) to be connected to development boards which use the [Digilent PMOD connector](https://digilent.com/shop/about-system-boards-and-components/).
+Kicad files for a PCB adapter board/shield to allow the [CME Widi Core module](https://www.cme-pro.com/widi-core/) to be connected to development boards which use the [Digilent PMOD connector](https://digilent.com/shop/about-system-boards-and-components/).
 
 ![PMOD_MIDI Photograph](./photos/pmod_midi.jpg)
 

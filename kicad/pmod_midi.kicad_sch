@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PMOD_MIDI")
+    (date "2023-07-27")
+    (rev "1d")
+  )
+
   (lib_symbols
     (symbol "CME:CME_Widi_Core" (in_bom yes) (on_board yes)
       (property "Reference" "B" (at 0 11.43 0)
