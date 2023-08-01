@@ -1,0 +1,19 @@
+(footprint "Standoff Spacer" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0.43 -2.35 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8bfb919e-43a1-408b-93fa-69c1adc17ef8)
+  )
+  (fp_text value "Standoff Spacer" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 582f0c47-4e89-4400-b095-e8c49fd5ef57)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 35ac541b-2101-4be6-87d5-460d3336c1c6)
+  )
+  (fp_circle (center 0.12 0.120354) (end 0.15 -1.149646)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 737f3c33-7886-41cf-ac65-636afc293a71))
+  (pad "1" thru_hole circle (at 0.12 0.12) (size 2.5 2.5) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 670c8343-a3dc-45f9-9bdf-a586bf2ddd1c))
+)
