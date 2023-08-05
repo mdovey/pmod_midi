@@ -1,6 +1,8 @@
 # pmod_midi
 #### PMOD Adapter for the CME Widi Core BLE MIDI module
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Upload to - AISLER](https://img.shields.io/badge/Upload_to_-AISLER-ff8000)](https://aisler.net/p/new?url=https://raw.githubusercontent.com/mdovey/pmod_midi/dev/kicad/pmod_midi.kicad_pcb&ref=github)
+
 Kicad files for a PCB adapter board/shield to allow the [CME Widi Core module](https://www.cme-pro.com/widi-core/) to be connected to development boards which use the [Digilent PMOD connector](https://digilent.com/shop/about-system-boards-and-components/).
 
 ![PMOD_MIDI Photograph](./photos/pmod_midi.jpg)
